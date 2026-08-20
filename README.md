@@ -21,6 +21,10 @@ To write a Python program to detect lines in an image using the Hough Transform 
 - Display the input image, grayscale image, Canny edge image and Hough Transform result.
 - Stop the program.
 
+## Developed by
+- ### Name: SAADHANA A
+- ### Register no: 212225240126
+  
 ## Program
 ```
 import cv2
